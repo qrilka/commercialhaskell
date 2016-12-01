@@ -38,12 +38,12 @@ N  ,Name             ,Url, Description  , Comment
 37,LuMiGuide ,https://lumiguide.eu/, Bicycle direction system ,web  backend (ghcjs  servant) + hardware (CV)
 38,Plow Technologies ,http://www.plowtech.net/, industrial monitoring ,web  backend (ghcjs +servant)
 39, GetShop.TV,http://getshoptv.com/, Interactive TV Ads,web backend
-40,Anchor,,,
-41,Applikativ,,,
-42,Assertible,,,
+40,Anchor,http://www.anchor.com.au/,DevOps backend deployment.,
+41,Applikativ,http://applikativ.no/,Haskell consulting,
+42,Assertible,https://assertible.com/,Automated testing,
 43,Borders,,,
 44,Beautiful Destinations,,,
-45,ByteAlly,,,
+45,ByteAlly,http://byteally.com/,Haskell consulting; products,
 46,Chordify,,,
 47,CircuitHub,,,
 48,Commonwealth Bank,,,
