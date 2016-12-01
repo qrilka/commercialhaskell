@@ -3,38 +3,85 @@ N  ,Name             ,Url, Description  , Comment
 2,Barclays Capital,http://www.barclays.com/), In-House Trading software,
 3,Standard Chartered Bank,https://www.sc.com/en/index.html, In-House Trading software,
 4,Tsuru Capital, http://www.tsurucapital.com/en/, Trading software,
-6,Galois,http://corp.galois.com/, various R&D projects,
-7,Scrive ,http://scrive.com/, Scrive is a service for e-signing tenders  contracts  and other documentse. ,
-9,Skedge ,http://skedge.me,Scheduling software, backend written in Haskell
-10,Kelecorix ,http://www.kelecorix.com, Multiple customer tailored projects, consulting 
-11,Janrain ,http://janrain.com , Login service provider, parts on backend in Haskell (Capture)
-12,Docmunch ,https://www.docmunch.com/, (startup) automatically parses structured data out of formatted documents like PDFs,. Backend written in Haskell
-13,Zalora ,http://worldwide.zalora.com/,DevOps backend deployment and Amazon EC2 automatization., See [upcast](https://github.com/zalora/upcast) 
-14,AlephCloud ,http://www.alephcloud.com/, Cloud platform, based on Happstack 
-15,Tabula, http://www.tabula.com/, FPGA generation ,
-16,SignalVine ,https://www.signalvine.com/, Partially Haskell infrastructure for Intelligent text messaging platform ,
-17,Soostone ,http://soostone.com, develops eDSL for AB-style testing. ,  
-18,Hasura ,http://hasura.io/, micro-services PaaS , http://34cross.in/zero-to-haskell-in-production
-19,Fugue, https://fugue.it/, immutable infrastructure  automates the creation  operations  and regeneration of cloud infrastructure.,
-20,Liquid Democracy ,https://liqd.net/, E-goverment solutions , https://liqd.net/job_haskell.html
-21,Kaspersky Lab ,http://kaspersky.com, Security analysis , https://mail.haskell.org/pipermail/haskell-cafe/2015-October/121851.html
-22,Capital Match, http://www.capital-match.com/,a peer-to-peer lending marketplace for Small and Medium Businesses  private and corporate investor ,http://abailly.github.io/posts/cm-arch-design.html 
-23,Wagon ,https://www.wagonhq.com/, SQL cloud analysis, https://www.wagonhq.com/jobs/haskell-engineer
-24,ThoughtLeader ,http://www.thoughtleadr.com/, Smart adverstising platform , Haskell on Backend
-25,Tweag, tweag.io, Haskell consulting ,  
-26,Prezi, https://prezi.com/, Cloud-based presentation software,http://vigoo.github.io/posts/2015-09-21-haskell-case-study.html
-27,Elevence ,http://elevence.com," Financial services,  contract digitization,  legal processing", http://www.eth-gethired.ch/jobs/haskell_engineer_1/33197
-28,DNBCloud ,http://www.dnbcloud.com/, Data(db) analytics cloud software,http://www.dnbcloud.com/joblistings/haskell-developer/
-29,Pusher ,http://pusher.com, Real-time channels (?),
-30,Obsidian Systes ,https://obsidian.systems/,Multiple customer tailored projects consulting, goo.gl/OeHjZU 
-31,Well-Typed ,http://www.well-typed.com/,Multiple customer tailored projects consulting , goo.gl/G7eowH
-32,WeAreWizards, wearewizards.io,Multiple customer tailored projects consulting , https://blog.wearewizards.io/a-lot-of-websockets-in-haskell
-33,Fugue, https://fugue.co/, Cloud OS , https://fugue.co/jobs/?job=177414
-34,Bdellium ,http://bdellium.com/, In-house risk management , 
-35,BlockApps ,http://blockapps.net/, BlockApps is a Haskell-based blockchain infrastructure company , Job [info] (https://www.reddit.com/r/haskell/comments/4douwk/haskell_jobs_at_blockapps_build_next_generation/)
-36,StackBuilders ,http://www.stackbuilders.com/, Various customer tailored projects, consulting
-37,WellPosed ,http://www.wellposed.com/, Various customer tailored projects, consulting
-38,RefMe ,https://www.refme.com/, Reference management web-app,
-39,LuMiGuide ,https://lumiguide.eu/, Bicycle direction system ,web  backend (ghcjs  servant) + hardware (CV)
-40,Plow Technologies ,http://www.plowtech.net/, industrial monitoring ,web  backend (ghcjs +servant)
-41, GetShop.TV,http://getshoptv.com/, Interactive TV Ads,web backend
+5,Galois,http://corp.galois.com/, various R&D projects,
+6,Scrive ,http://scrive.com/, Scrive is a service for e-signing tenders  contracts  and other documentse. ,
+7,Skedge ,http://skedge.me,Scheduling software, backend written in Haskell
+8,Kelecorix ,http://www.kelecorix.com, Multiple customer tailored projects, consulting 
+9,Janrain ,http://janrain.com , Login service provider, parts on backend in Haskell (Capture)
+10,Docmunch ,https://www.docmunch.com/, (startup) automatically parses structured data out of formatted documents like PDFs,. Backend written in Haskell
+11,Zalora ,http://worldwide.zalora.com/,DevOps backend deployment and Amazon EC2 automatization., See [upcast](https://github.com/zalora/upcast) 
+12,AlephCloud ,http://www.alephcloud.com/, Cloud platform, based on Happstack 
+13,Tabula, http://www.tabula.com/, FPGA generation ,
+14,SignalVine ,https://www.signalvine.com/, Partially Haskell infrastructure for Intelligent text messaging platform ,
+15,Soostone ,http://soostone.com, develops eDSL for AB-style testing. ,  
+16,Hasura ,http://hasura.io/, micro-services PaaS , http://34cross.in/zero-to-haskell-in-production
+17,Fugue, https://fugue.it/, immutable infrastructure  automates the creation  operations  and regeneration of cloud infrastructure.,
+18,Liquid Democracy ,https://liqd.net/, E-goverment solutions , https://liqd.net/job_haskell.html
+19,Kaspersky Lab ,http://kaspersky.com, Security analysis , https://mail.haskell.org/pipermail/haskell-cafe/2015-October/121851.html
+20,Capital Match, http://www.capital-match.com/,a peer-to-peer lending marketplace for Small and Medium Businesses  private and corporate investor ,http://abailly.github.io/posts/cm-arch-design.html 
+21,Wagon ,https://www.wagonhq.com/, SQL cloud analysis, https://www.wagonhq.com/jobs/haskell-engineer
+22,ThoughtLeader ,http://www.thoughtleadr.com/, Smart adverstising platform , Haskell on Backend
+23,Tweag, tweag.io, Haskell consulting ,  
+24,Prezi, https://prezi.com/, Cloud-based presentation software,http://vigoo.github.io/posts/2015-09-21-haskell-case-study.html
+25,Elevence ,http://elevence.com," Financial services,  contract digitization,  legal processing", http://www.eth-gethired.ch/jobs/haskell_engineer_1/33197
+26,DNBCloud ,http://www.dnbcloud.com/, Data(db) analytics cloud software,http://www.dnbcloud.com/joblistings/haskell-developer/
+27,Pusher ,http://pusher.com, Real-time channels (?),
+28,Obsidian Systes ,https://obsidian.systems/,Multiple customer tailored projects consulting, goo.gl/OeHjZU 
+29,Well-Typed ,http://www.well-typed.com/,Multiple customer tailored projects consulting , goo.gl/G7eowH
+30,WeAreWizards, wearewizards.io,Multiple customer tailored projects consulting , https://blog.wearewizards.io/a-lot-of-websockets-in-haskell
+31,Fugue, https://fugue.co/, Cloud OS , https://fugue.co/jobs/?job=177414
+32,Bdellium ,http://bdellium.com/, In-house risk management , 
+33,BlockApps ,http://blockapps.net/, BlockApps is a Haskell-based blockchain infrastructure company , Job [info] (https://www.reddit.com/r/haskell/comments/4douwk/haskell_jobs_at_blockapps_build_next_generation/)
+34,StackBuilders ,http://www.stackbuilders.com/, Various customer tailored projects, consulting
+35,WellPosed ,http://www.wellposed.com/, Various customer tailored projects, consulting
+36,RefMe ,https://www.refme.com/, Reference management web-app,
+37,LuMiGuide ,https://lumiguide.eu/, Bicycle direction system ,web  backend (ghcjs  servant) + hardware (CV)
+38,Plow Technologies ,http://www.plowtech.net/, industrial monitoring ,web  backend (ghcjs +servant)
+39, GetShop.TV,http://getshoptv.com/, Interactive TV Ads,web backend
+40,Anchor,,,
+41,Applikativ,,,
+42,Assertible,,,
+43,Borders,,,
+44,Beautiful Destinations,,,
+45,ByteAlly,,,
+46,Chordify,,,
+47,CircuitHub,,,
+48,Commonwealth Bank,,,
+49,DigitalX,,,
+50,Elsen,,,
+51,Extensibl,,,
+52,FP Complete,,,
+53,FPInsight,,,
+54,Front Row Education,,,
+55,Helium Systems,,,
+56,"Hooky, Inc",,,
+57,Infinipool,,,
+58,Iris Connect,,,
+59,Keera Studios,,,
+60,Kite & Lightning,,,
+61,Least Fixed,,,
+62,LexisNexis Risk Solutions,,,
+63,Madriska Inc.,,,
+64,Microsoft,,,
+65,Midroll,,,
+66,MyFansDemand,,,
+67,Picus Security,,,
+68,Pivot Cloud,,,
+69,Rheo Systems,,,
+70,Scoompa,,,
+71,VaryWell,,,
+72,SimplyRETS,,,
+73,Snowdrift.coop,,,
+74,Stitcher,,,
+75,Suite Solutions,,,
+76,SumAll,,,
+77,Swift Navigation,,,
+78,Systor Vest,,,
+79,thoughtbot,,,
+80,Tree.is,,,
+81,Turing Jump,,,
+82,UpHere,,,
+83,VaryWell,,,
+84,VFILES,,,
+85,Virtual Forge,,,
+86,Wellposed,,,
